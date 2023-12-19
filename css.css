@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(128, 82, 26);
+}
+        .navbar{
+            height: 40px;
+            width: auto;
+            background-color: black;
+            color: white;
+            padding-top: 20px;
+        }
+        a{
+            padding-left: 30px;
+            font-family: cursive;
+
+        }
+        h1{
+            font-family: cursive;
+            color:rgb(73, 44, 44);
+        }
+        .para{
+            font-size: xxx-large;
+            font-family: cursive;
+            font-weight: 700;
+            padding-left: 100px;
+            padding-top: 100px;
+        }
+        p{
+            padding-left: 100px;
+        }
+        .button{
+           margin-left: 100px;
+           margin-top: 20px;
+           padding-right: 25px;
+           padding-left: 25px;
+           padding-top: 5px;
+           padding-bottom: 5px;
+           color:black;
+           background-color: yellow;
+           border:2px solid yellow;
+        }
+img{
+    height: 300px;
+    width: 250px;
+    position: absolute;
+    left: 900px;
+    top: 250px;
+}
